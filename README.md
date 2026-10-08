@@ -4,6 +4,31 @@
 
 **A Quest to Eternity** est un jeu d’action et d’exploration spatiale en 3D réalisé avec Unity. Le joueur explore le système solaire à bord d’un vaisseau, collecte et détruit des astéroïdes, puis atterrit sur Mercure et Vénus pour accomplir des missions de colonisation et de sécurisation.
 
+<h2>📸 Galerie de gameplay</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td></td>
+      <td align="center">
+        <img src="docs/screenshots/espace.png" width="300" alt="Exploration spatiale">
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="docs/screenshots/mercure.png" width="300" alt="Exploration de Mercure">
+      </td>
+      <td align="center">
+        <img src="docs/screenshots/mercure2.png" width="300" alt="Gameplay sur Mercure">
+      </td>
+      <td align="center">
+        <img src="docs/screenshots/venus.png" width="300" alt="Exploration de Venus">
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Release Notes
 
 Voir les [Release Notes](RELEASE_NOTES.md).
