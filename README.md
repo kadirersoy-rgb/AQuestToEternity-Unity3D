@@ -34,6 +34,20 @@ Une vidéo de présentation du gameplay sera prochainement disponible sur YouTub
 
 <!-- Ajouter ici le lien de la vidéo YouTube -->
 
+## 🎮 Télécharger et jouer
+
+Une version Windows du jeu est disponible sans installation de Unity.
+
+➡️ **[Télécharger A Quest to Eternity — Windows](https://github.com/kadirersoy-rgb/AQuestToEternity-Unity3D/releases/latest)**
+
+### Installation
+
+1. Télécharger l'archive ZIP depuis la dernière Release.
+2. Extraire tous les fichiers dans un dossier.
+3. Exécuter `AQuestToEternity.exe`.
+
+**Plateforme :** Windows 64 bits.
+
 ## ✨ Fonctionnalités principales
 
 ### 🌌 Exploration et combat spatial
